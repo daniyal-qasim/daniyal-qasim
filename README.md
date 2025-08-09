@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniyal Qasim</h1>
-<h3 align="center">A passionate Data Professional in Canada</h3>
+<h3 align="center">A passionate Data Professional in Canada "&#x1f1e8;&#x1f1e6" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-qasim&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-qasim" /> </p>
 
