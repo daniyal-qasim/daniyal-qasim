@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/daniyal-qasim](www.github.com/daniyal-qasim)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/daniyalqasim/](www.linkedin.com/in/daniyalqasim/)
+- 📝 I regularly write articles on [www.linkedin.com/in/daniyalqasim/](www.linkedin.com/in/daniyalqasim)
 
 - 📫 How to reach me **daniyal.qasim@gmail.com**
 
