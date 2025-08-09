@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **daniyal.qasim@gmail.com**
 
-- ⚡ Fun fact **I am make you laugh while cooking!!**
+- ⚡ Fun fact ** I can make you laugh while cooking!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
