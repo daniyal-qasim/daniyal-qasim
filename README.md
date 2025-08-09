@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniyal Qasim</h1>
-<h3 align="center">A passionate Data Professional in Canada &#x1f1e8;&#x1f1e6 </h3>
+<h1 align="center">Hi There 👋👋 </h1>
+<h3 align="center"> I'm Daniyal Qasim, A passionate Data Professional in Canada with expertise in SQL, Python, and data visualization tools (Tableau, Power BI). Skilled in building automated data pipelines, creating insightful dashboards, and delivering actionable analytics for business growth. Experienced in data validation, reconciliation, and process automation, with a proven track record of improving efficiency and data quality. Passionate about transforming complex data into clear, impactful insights and continuously learning emerging cloud and analytics technologies. &#x1f1e8;&#x1f1e6 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-qasim&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-qasim" /> </p>
 
